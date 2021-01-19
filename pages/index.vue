@@ -1,5 +1,5 @@
 <template>
-  <div>Hii 2</div>
+  <div>Hii 3</div>
 </template>
 
 <script>
